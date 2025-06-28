@@ -1,4 +1,4 @@
-## Zepto-Themed Sales Performance Dashboard\
+## Zepto-Themed Sales Performance Dashboard
 This is a Power BI dashboard project themed around Zepto, a 10-minute grocery delivery model. The dashboard demonstrates my ability to design, transform, and visualize data for meaningful business insights.
 ##  Key Features
 
